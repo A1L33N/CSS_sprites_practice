@@ -1,0 +1,71 @@
+.sprite {
+    background-image: url(spritesheet.png);
+    background-repeat: no-repeat;
+    display: block;
+}
+
+.sprite-ThetusLogo_small-copy {
+    width: 300px;
+    height: 300px;
+    background-position: -5px -5px;
+}
+
+.sprite-cloudability {
+    width: 300px;
+    height: 175px;
+    background-position: -315px -5px;
+}
+
+.sprite-crowdcompass {
+    width: 300px;
+    height: 40px;
+    background-position: -315px -190px;
+}
+
+.sprite-dealer_spike_logo {
+    width: 300px;
+    height: 102px;
+    background-position: -315px -240px;
+}
+
+.sprite-living_social_logo {
+    width: 300px;
+    height: 117px;
+    background-position: -5px -352px;
+}
+
+.sprite-new_relic_logo {
+    width: 300px;
+    height: 243px;
+    background-position: -315px -352px;
+}
+
+.sprite-notch8_logos {
+    width: 300px;
+    height: 139px;
+    background-position: -5px -605px;
+}
+
+.sprite-planet-argon {
+    width: 300px;
+    height: 210px;
+    background-position: -625px -5px;
+}
+
+.sprite-quick-left {
+    width: 300px;
+    height: 264px;
+    background-position: -625px -225px;
+}
+
+.sprite-spendwell_logo {
+    width: 300px;
+    height: 70px;
+    background-position: -5px -499px;
+}
+
+.sprite-switchboard_logo {
+    width: 300px;
+    height: 300px;
+    background-position: -625px -499px;
+}
